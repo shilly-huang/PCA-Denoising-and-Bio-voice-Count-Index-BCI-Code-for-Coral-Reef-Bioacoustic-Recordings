@@ -163,7 +163,7 @@ BCI = Bio_voice(y, fs, freq_weight, PCA_num);  % Output: BCI = 13
 
 ## Dataset
 
-https://drive.google.com/file/d/1KQ4sIIPMF8mMtj6wmK91DQq5Tm4U8hof/view?usp=drive_link
+https://drive.google.com/file/d/1KQ4sIIPMF8mMtj6wmK91DQq5Tm4U8hof/view?usp=sharing
 
 ## Access information
 
