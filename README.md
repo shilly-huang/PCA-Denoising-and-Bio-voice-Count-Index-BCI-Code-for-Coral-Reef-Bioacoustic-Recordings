@@ -1,6 +1,8 @@
 # PCA Denoising and Bio-voice Count Index (BCI) Code for Coral Reef Bioacoustic Recordings
 
-[https://doi.org/10.5061/dryad.mcvdnck9v](https://doi.org/10.5061/dryad.mcvdnck9v)
+## Abstract
+
+This dataset contains low-pass filtered (0–1 kHz) audio excerpts recorded on July 16, 2023, from coral reef ecosystems near Sanya, China, using a LoPAS-L low-power self-capacitating acoustic recorder (sensitivity: -194 dB re 1 V/μPa; sampling rate: 128 kHz). Each 1-minute audio clip focuses on fish vocalizations. Along with the audio data, we provide MATLAB code for principal component analysis (PCA) denoising, spectrogram normalization, and Bio-voice Count Index (BCI) calculation.
 
 ## Description of the data and file structure
 
