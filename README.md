@@ -161,6 +161,10 @@ BCI = Bio_voice(y, fs, freq_weight, PCA_num);  % Output: BCI = 13
     * `freq_weight`: Frequency weighting matrix (user-defined).
     * `PCA_num`: Number of PCA components to retain.
 
+## Dataset
+
+https://drive.google.com/file/d/1KQ4sIIPMF8mMtj6wmK91DQq5Tm4U8hof/view?usp=drive_link
+
 ## Access information
 
 No other publicly accessible locations or alternative channels through which the data can be accessed.
